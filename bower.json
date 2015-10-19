@@ -1,0 +1,29 @@
+{
+  "name": "startship-3d-demo",
+  "version": "1.0.0",
+  "homepage": "https://github.com/ebabel-eu/startship-3d-demo",
+  "authors": [
+    "Nadjib Amar <hello@ebabel.eu>"
+  ],
+  "description": "WebGL demo.",
+  "main": "index.html",
+  "moduleType": [
+    "es6"
+  ],
+  "keywords": [
+    "mmo",
+    "webgl",
+    "free"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "three.js": "threejs#*"
+  }
+}

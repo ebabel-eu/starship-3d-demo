@@ -1,0 +1,10 @@
+node_modules
+bower_components
+.DS_Store
+.idea
+*.log
+*.swp
+tmp/
+build
+src/js/scripts.js
+src/js/dependencies.js
