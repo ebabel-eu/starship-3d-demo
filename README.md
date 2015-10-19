@@ -29,6 +29,11 @@ Browse to
 
   http://localhost:8080
 
+## Production
+
+Browse to http://ebabel-eu.github.io/starship-3d-demo/
+
 ## Versions
 
+* 1.0.1 Performance fix.
 * 1.0.0 First version.

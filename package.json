@@ -1,7 +1,7 @@
 {
   "name": "startship-3d-demo",
   "description": "WebGL demo.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "Gruntfile.js",
   "devDependencies": {
     "grunt": "~0.4.5",

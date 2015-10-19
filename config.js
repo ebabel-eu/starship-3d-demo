@@ -1,17 +1,8 @@
 module.exports = {
-    'banner': {
-        'message': '/* This file is generated with Grunt and should not be edited directly. */',
-        'files': [
-            './src/js/dependencies.js',
-            './src/js/scripts.js',
-            './src/css/default.css'
-        ]
-    },
     'dependencies': [
         // Libraries managed with Bower.
         './bower_components/three.js/build/three.js',
-        './bower_components/three.js/examples/js/loaders/ColladaLoader.js',
-        './bower_components/three.js/examples/js/controls/OrbitControls.js'
+        './bower_components/three.js/examples/js/loaders/ColladaLoader.js'
     ],
     'scripts': [
         './src/js/scripts/main/*.js',
